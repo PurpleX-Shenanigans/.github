@@ -8,7 +8,7 @@ Welcome to the official GitHub organization profile for **PurpleX Shenanigans**.
 
 ## 🚀 Flagship Project
 
-### 🖥️ [`yourpc`](https://github.com/PurpleX-Shenanigans/yourpc)
+[<img src="logo@4x.png">(https://github.com/PurpleX-Shenanigans/yourpc)
 > *Because paid cloud desktops are expensive, and JioPC left us with trust issues.*
 
 An ultra-lightweight, disposable, browser-accessible KDE Plasma Linux desktop running entirely inside free **GitHub Codespaces** and routed via **Cloudflare Tunnels**.
