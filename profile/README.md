@@ -2,14 +2,14 @@
 
 > *"Over-engineering chaotic solutions to problems that barely existed in the first place."*
 
-Welcome to the official GitHub organization profile for **PurpleX Shenanigans**. We are an elite group of digital chaos architects dedicated to building fast, light, and slightly unconventional cloud utilities.
+Welcome to the official GitHub organization profile for **PurpleX Shenanigans**. We (well not "we" right now, im just a solo guy) are an elite group of digital chaos architects dedicated to building fast, light, and slightly unconventional cloud utilities.
 
 ---
 
 ## 🚀 Flagship Project
 
 ### 🖥️ [`yourpc`](https://github.com/PurpleX-Shenanigans/yourpc)
-> *Because paid cloud desktops are expensive, and JioPC left us with trust issues.*
+> *Because paid cloud desktops are expensive, and JioPC left us with trust issues and lag.*
 
 An ultra-lightweight, disposable, browser-accessible KDE Plasma Linux desktop running entirely inside free **GitHub Codespaces** and routed via **Cloudflare Tunnels**.
 
@@ -17,7 +17,7 @@ An ultra-lightweight, disposable, browser-accessible KDE Plasma Linux desktop ru
 * **0% Expense:** Runs 100% free on standard GitHub infrastructure.
 * **Instant Access:** One-click environment bootstrap via web browser.
 * **Automated Persistence:** Built-in auto-commit daemon to snapshot installed applications and user settings every 10–15 minutes.
-* **Streamlined UI:** Hides terminal noise behind interactive control scripts (`desktop.sh`, `commit-custom-pc.sh`).
+* **Streamlined UI:** Hides terminal noise behind interactive control scripts (`desktop.sh`, `save.sh`).
 
 ---
 
@@ -29,18 +29,6 @@ An ultra-lightweight, disposable, browser-accessible KDE Plasma Linux desktop ru
 | **Environment** | GitHub Codespaces (4GB / 2-Core Free Tier) |
 | **Networking** | Cloudflare Tunnels (`trycloudflare`) |
 | **Desktop DE** | KDE Plasma / XFCE |
-
----
-
-## 📊 Corporate Performance Metrics
-
-```
-[SYS_LOG] Initializing PurpleX Core...
-[SUCCESS] Coffee level: 98%
-[SUCCESS] Server cost: $0.00 / month
-[WARNING] JioPC reliance: 0% (Permanently Neutralized)
-[STATUS] Ready for production deployment.
-```
 
 ---
 
