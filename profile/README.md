@@ -30,7 +30,6 @@ An ultra-lightweight, disposable, browser-accessible KDE Plasma Linux desktop ru
 | **Networking** | Cloudflare Tunnels (`trycloudflare`) |
 | **Desktop DE** | KDE Plasma / XFCE |
 
----
 
 ## 🤝 Join the Shenanigans
 
@@ -43,5 +42,5 @@ Got an idea, found a bug, or figured out a new trick to keep Codespaces awake fo
 ---
 
 <p align="center">
-  <sub>Built with many AI models (Gemini, Claude, Codex, etc.) and late-night terminal sessions by <b>PurpleX Shenanigans</b></sub>
+  <sub>Built with Gemini and late-night terminal sessions by <b>PurpleX Shenanigans</b></sub>
 </p>
